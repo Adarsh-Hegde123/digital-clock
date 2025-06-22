@@ -4,7 +4,7 @@ A fully modular 12-hour digital clock built using Verilog HDL. The design includ
 
 ##  Project Structure
 
-digital-clock/
+digital-clock/     
 ├── src/                
 │   ├── digital_clock.v  
 │   └── clock_counter.v  
