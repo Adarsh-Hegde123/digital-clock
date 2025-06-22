@@ -5,16 +5,16 @@ A fully modular 12-hour digital clock built using Verilog HDL. The design includ
 ##  Project Structure
 
 digital-clock/
-├── src/                 # Verilog source files  
+├── src/                
 │   ├── digital_clock.v  
 │   └── clock_counter.v  
-├── tb/                  # Testbenches  
+├── tb/                    
 │   └── digital_clock_tb.v  
-├── sim/                 # Simulation output (GTKWave)  
+├── sim/                   
 │   └── waveform.png  
-├── rtl_schematic/       # RTL schematic image (optional)  
+├── rtl_schematic/       
 │   └── rtl_schematic.png  
-├── README.md            # Project documentation  
+├── README.md              
 
 
 ##  Features
