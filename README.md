@@ -2,18 +2,19 @@
 
 A fully modular 12-hour digital clock built using Verilog HDL. The design includes BCD counters for seconds, minutes, and hours, along with PM toggle logic. The project is structured for simulation, synthesis, and RTL analysis — ideal for learning or showcasing digital design skills.
 
-##  Folder Structure
+##  Project Structure
+
 digital-clock/
-├── src/ # Verilog source files
-│ ├── digital_clock.v
-│ └── clock_counter.v
-├── tb/ # Testbenches
-│ └── digital_clock_tb.v
-├── sim/ # Simulation output (GTKWave)
-│ └── waveform.png
-├── rtl_schematic/ # RTL schematic image (optional)
-│ └── rtl_schematic.png
-├── README.md
+├── src/                 # Verilog source files  
+│   ├── digital_clock.v  
+│   └── clock_counter.v  
+├── tb/                  # Testbenches  
+│   └── digital_clock_tb.v  
+├── sim/                 # Simulation output (GTKWave)  
+│   └── waveform.png  
+├── rtl_schematic/       # RTL schematic image (optional)  
+│   └── rtl_schematic.png  
+├── README.md            # Project documentation  
 
 
 ##  Features
